@@ -1,0 +1,28 @@
+body {
+    font-size: 20px;
+}
+
+.border-container {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.pkmn-image {
+    display: block;
+    margin: 10px auto;
+    max-width: 200px;
+    height: auto;
+}
+
+.container {
+    border: 3px solid rgb(95, 85, 85);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+
